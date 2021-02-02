@@ -1,1 +1,0 @@
-# Sandhiya-s-Mehandi-Designer
