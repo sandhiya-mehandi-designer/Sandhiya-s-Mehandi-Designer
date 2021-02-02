@@ -1541,10 +1541,10 @@ body .section + .section.has-background-image {
   background-position: center; }
 
 #featured-video-section {
-  background-image: url("https://darkshadee.github.io/MehandiDesigner/wp-content/themes/photofocus/assets/images/video-bg.jpg"); }
+  background-image: url("https://www.sandhiyamehandidesigner.tk/wp-content/themes/photofocus/assets/images/video-bg.jpg"); }
 
 #contact-section .main-image {
-  background-image: url("https://darkshadee.github.io/MehandiDesigner/wp-content/themes/photofocus/assets/images/contact-map.jpg"); }
+  background-image: url("https://www.sandhiyamehandidesigner.tk/wp-content/themes/photofocus/assets/images/contact-map.jpg"); }
 
 /*--------------------------------------------------------------
 ## buttons 5.1
@@ -4896,7 +4896,7 @@ body .flashy-container .flashy-content {
   cursor: pointer; }
 
 .mejs-overlay-button {
-  background: url(https://darkshadee.github.io/MehandiDesigner/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
+  background: url(https://www.sandhiyamehandidesigner.tk/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
   background-position: 0 -39px;
   height: 80px;
   width: 80px; }
@@ -4911,7 +4911,7 @@ body .flashy-container .flashy-content {
 .mejs-overlay-loading-bg-img {
   -webkit-animation: mejsanimation 1s linear infinite;
   animation: mejsanimation 1s linear infinite;
-  background: transparent url(https://darkshadee.github.io/MehandiDesigner/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
+  background: transparent url(https://www.sandhiyamehandidesigner.tk/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
   display: block;
   height: 80px;
   width: 80px;
@@ -4961,7 +4961,7 @@ body .flashy-container .flashy-content {
   padding: 0; }
 
 .mejs-button > button {
-  background: transparent url(https://darkshadee.github.io/MehandiDesigner/wp-includes/js/mediaelement/mejs-controls.svg);
+  background: transparent url(https://www.sandhiyamehandidesigner.tk/wp-includes/js/mediaelement/mejs-controls.svg);
   border: 0;
   cursor: pointer;
   display: block;

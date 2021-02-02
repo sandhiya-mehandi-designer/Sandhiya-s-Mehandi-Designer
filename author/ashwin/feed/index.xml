@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ashwin &#8211; Sandhiya&#039;s Mehandi Designer</title>
-	<atom:link href="https://darkshadee.github.io/MehandiDesigner/author/ashwin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://darkshadee.github.io/MehandiDesigner/</link>
+	<atom:link href="https://www.sandhiyamehandidesigner.tk/author/ashwin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.sandhiyamehandidesigner.tk/</link>
 	<description>Professional Mehndi Designer</description>
 	<lastBuildDate>Fri, 29 Jan 2021 12:07:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://darkshadee.github.io/MehandiDesigner/wp-content/uploads/2021/01/cropped-new_logo-32x32.png</url>
+	<url>https://www.sandhiyamehandidesigner.tk/wp-content/uploads/2021/01/cropped-new_logo-32x32.png</url>
 	<title>ashwin &#8211; Sandhiya&#039;s Mehandi Designer</title>
-	<link>https://darkshadee.github.io/MehandiDesigner/</link>
+	<link>https://www.sandhiyamehandidesigner.tk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://darkshadee.github.io/MehandiDesigner/2021/01/29/hello-world/</link>
-					<comments>https://darkshadee.github.io/MehandiDesigner/2021/01/29/hello-world/#comments</comments>
+		<link>https://www.sandhiyamehandidesigner.tk/2021/01/29/hello-world/</link>
+					<comments>https://www.sandhiyamehandidesigner.tk/2021/01/29/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ashwin]]></dc:creator>
 		<pubDate>Fri, 29 Jan 2021 12:07:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://darkshadee.github.io/MehandiDesigner/?p=1</guid>
+		<guid isPermaLink="false">https://www.sandhiyamehandidesigner.tk/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://darkshadee.github.io/MehandiDesigner/2021/01/29/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.sandhiyamehandidesigner.tk/2021/01/29/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
