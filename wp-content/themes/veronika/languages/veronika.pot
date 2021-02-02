@@ -1,0 +1,1297 @@
+# Copyright (C) 2021 VineThemes
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Veronika 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/veronika\n"
+"POT-Creation-Date: 2021-01-06 16:56:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, but the page you are looking for has moved or no longer exists. Please use the search below, or the menu to locate the missing page."
+msgstr ""
+
+#: archive.php:86 archive.php:88 full-width.php:50 index.php:108 index.php:110
+#: page.php:48 single.php:90 single.php:92
+msgid "Read More"
+msgstr ""
+
+#: archive.php:103 single.php:60
+msgid "0 Comment"
+msgstr ""
+
+#: archive.php:103 single.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:103 single.php:60
+msgid "% Comments"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:928
+#: class-tgm-plugin-activation.php:2634 class-tgm-plugin-activation.php:3681
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3260
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395 class-tgm-plugin-activation.php:3053
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:733
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1035
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1035 class-tgm-plugin-activation.php:1038
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1038
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1222 class-tgm-plugin-activation.php:3049
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: class-tgm-plugin-activation.php:2083
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2374
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2377
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2393
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2396
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2416
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2422 inc/about/about-veronika.php:72
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2431
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: class-tgm-plugin-activation.php:2443
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2489
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2493
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2497
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: class-tgm-plugin-activation.php:2501
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2583
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2591
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2599
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2634
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2648
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2649
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2650
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2654
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2655
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2704
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2709
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: class-tgm-plugin-activation.php:2715
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2785
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2818
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2824
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2827
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2858
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2901
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3009
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3035
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3259
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3599
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: class-tgm-plugin-activation.php:3602
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3604
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3608
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3610
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610 class-tgm-plugin-activation.php:3618
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610 class-tgm-plugin-activation.php:3618
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3611
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3613
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3616
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: class-tgm-plugin-activation.php:3618
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3619
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: class-tgm-plugin-activation.php:3621
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: customizer.php:24 inc/about/about-veronika.php:183
+msgid "Veronika Premium"
+msgstr ""
+
+#: customizer.php:37 customizer.php:503 customizer.php:544 customizer.php:594
+msgid "Upgrade"
+msgstr ""
+
+#: customizer.php:38
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr ""
+
+#: customizer.php:39 inc/about/about-veronika.php:178
+#: inc/about/about-veronika.php:332
+msgid "Get Veronika Premium"
+msgstr ""
+
+#: customizer.php:42 customizer.php:44 inc/about/about-veronika.php:145
+msgid "Documentation"
+msgstr ""
+
+#: customizer.php:43
+msgid "Read how to customize the theme, set up widgets, and learn all the possible options available to you."
+msgstr ""
+
+#: customizer.php:47 customizer.php:49 inc/about/about-veronika.php:29
+msgid "Support"
+msgstr ""
+
+#: customizer.php:48
+msgid "For Veronika theme related questions feel free to post on our support forums."
+msgstr ""
+
+#: customizer.php:64 inc/about/about-veronika.php:5
+msgid "About Veronika"
+msgstr ""
+
+#: customizer.php:89
+msgid "Slider Options"
+msgstr ""
+
+#: customizer.php:90
+msgid "Configure your Slider here."
+msgstr ""
+
+#: customizer.php:104
+msgid "Homepage Slider"
+msgstr ""
+
+#: customizer.php:108
+msgid "Enable"
+msgstr ""
+
+#: customizer.php:109
+msgid "Disable"
+msgstr ""
+
+#: customizer.php:120
+msgid "Category for Slider"
+msgstr ""
+
+#: customizer.php:135
+msgid "Number of Posts for Slider"
+msgstr ""
+
+#: customizer.php:152
+msgid "Slider Designs"
+msgstr ""
+
+#: customizer.php:155
+msgid "Modern Slider"
+msgstr ""
+
+#: customizer.php:156
+msgid "Grid"
+msgstr ""
+
+#: customizer.php:157
+msgid "Single Boxed"
+msgstr ""
+
+#: customizer.php:166
+msgid "Featured Boxes"
+msgstr ""
+
+#: customizer.php:167
+msgid "Configure Featured Boxes"
+msgstr ""
+
+#: customizer.php:245
+msgid "Enable Featured Boxes"
+msgstr ""
+
+#: customizer.php:258
+msgid "Featured Box1 Title"
+msgstr ""
+
+#: customizer.php:271
+msgid "Featured Box1 Image"
+msgstr ""
+
+#: customizer.php:283
+msgid "Featured Box1 URL"
+msgstr ""
+
+#: customizer.php:297
+msgid "Featured Box2 Title"
+msgstr ""
+
+#: customizer.php:310
+msgid "Featured Box2 Image"
+msgstr ""
+
+#: customizer.php:322
+msgid "Featured Box2 URL"
+msgstr ""
+
+#: customizer.php:336
+msgid "Featured Box3 Title"
+msgstr ""
+
+#: customizer.php:349
+msgid "Featured Box3 Image"
+msgstr ""
+
+#: customizer.php:361
+msgid "Featured Box3 URL"
+msgstr ""
+
+#: customizer.php:377
+msgid "General Options"
+msgstr ""
+
+#: customizer.php:378
+msgid "Configure Your Theme Settings Here."
+msgstr ""
+
+#: customizer.php:390
+msgid "Hide Top Search Icon"
+msgstr ""
+
+#: customizer.php:403
+msgid "Disable Responsive"
+msgstr ""
+
+#: customizer.php:416
+msgid "Disable Sidebar on Homepage and Archive Pages"
+msgstr ""
+
+#: customizer.php:429
+msgid "Disable Sidebar on Posts"
+msgstr ""
+
+#: customizer.php:442
+msgid "Disable Sidebar on Pages"
+msgstr ""
+
+#: customizer.php:456
+msgid "Disable Author Box on Posts"
+msgstr ""
+
+#: customizer.php:470
+msgid "Homepage and Archive Post Summary Type"
+msgstr ""
+
+#: customizer.php:473
+msgid "Use Excerpt"
+msgstr ""
+
+#: customizer.php:474
+msgid "Use Full Post"
+msgstr ""
+
+#: customizer.php:485
+msgid "Homepage and Archive Post Layout Type"
+msgstr ""
+
+#: customizer.php:488
+msgid "Grid Layout [Only in Premium Version]"
+msgstr ""
+
+#: customizer.php:489
+msgid "Standard Post"
+msgstr ""
+
+#: customizer.php:490
+msgid "List Post [Only in Premium Version]"
+msgstr ""
+
+#: customizer.php:513
+msgid "Footer Settings"
+msgstr ""
+
+#: customizer.php:514
+msgid "Configure Your Footer Here. You can't change our footer links in the free version of this theme."
+msgstr ""
+
+#: customizer.php:527
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: customizer.php:575
+msgid "Main Color"
+msgstr ""
+
+#: customizer.php:613
+msgid "Social Links"
+msgstr ""
+
+#: customizer.php:677 header.php:57
+msgid "Facebook"
+msgstr ""
+
+#: customizer.php:683 header.php:61
+msgid "Twitter"
+msgstr ""
+
+#: customizer.php:689 header.php:70
+msgid "Linkedin"
+msgstr ""
+
+#: customizer.php:695 header.php:66
+msgid "Pinterest"
+msgstr ""
+
+#: customizer.php:702 header.php:74
+msgid "Instagram"
+msgstr ""
+
+#: customizer.php:708 header.php:77
+msgid "Bloglovin"
+msgstr ""
+
+#: customizer.php:714 header.php:80
+msgid "Snapchat"
+msgstr ""
+
+#: customizer.php:720 header.php:83
+msgid "Tumblr"
+msgstr ""
+
+#: customizer.php:726 header.php:86
+msgid "Youtube"
+msgstr ""
+
+#: customizer.php:732 header.php:89
+msgid "Dribbble"
+msgstr ""
+
+#: customizer.php:738 header.php:92
+msgid "Soundcloud"
+msgstr ""
+
+#: customizer.php:744 header.php:95
+msgid "Vimeo"
+msgstr ""
+
+#: customizer.php:750
+msgid "Rss"
+msgstr ""
+
+#: footer.php:35
+msgid "Copyright &copy; 2020."
+msgstr ""
+
+#: footer.php:40
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:41
+msgid "VineThemes"
+msgstr ""
+
+#: functions.php:64
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:160
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:162
+msgid "Widgets in this area will be shown on the sidebar of all pages."
+msgstr ""
+
+#: functions.php:167
+msgid "Below Slider"
+msgstr ""
+
+#: functions.php:169
+msgid "This widget area is for Newsletter, Ads, Most popular widgets, etc."
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:178 functions.php:185 functions.php:192
+msgid "This widget area is for Footer Widgets."
+msgstr ""
+
+#: functions.php:183
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:197
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:203
+msgid "Use the \"Instagram\" widget here. IMPORTANT: For best result set number of photos to 8."
+msgstr ""
+
+#: functions.php:212
+msgid "Thank you for choosing Veronika! Now, we highly recommend you to visit our welcome page."
+msgstr ""
+
+#: functions.php:213
+msgid "Get Started with Veronika"
+msgstr ""
+
+#. translators: %s: comment author link
+
+#: functions.php:253
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#. translators: %s: comment date
+
+#: functions.php:258
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:267
+msgid "Edit"
+msgstr ""
+
+#: functions.php:273
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:381
+msgid "Written By"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to main content"
+msgstr ""
+
+#: header.php:98
+msgid "RSS"
+msgstr ""
+
+#: header.php:219
+msgid "Header image"
+msgstr ""
+
+#: inc/about/about-veronika.php:13
+msgid "Welcome to Veronika!"
+msgstr ""
+
+#: inc/about/about-veronika.php:15
+msgid "Veronika is free personal and multi-author WordPress Blog theme. It's perfect for any kind of blog: personal, multi-author, food, lifestyle, etc... Is fully Responsive and Retina Display ready, clean, modern and minimal. Coded with latest WordPress' standards."
+msgstr ""
+
+#: inc/about/about-veronika.php:23
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about-veronika.php:26
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/about/about-veronika.php:32
+msgid "Free vs Premium"
+msgstr ""
+
+#: inc/about/about-veronika.php:44
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about-veronika.php:46
+msgid "Highly recommended to begin with this, read the full theme documentation to understand the basics and even more details about how to use Veronika. It is worth to spend 10 minutes and know almost everything about the theme."
+msgstr ""
+
+#: inc/about/about-veronika.php:48
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/about/about-veronika.php:53
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about/about-veronika.php:55
+msgid "All theme options are located here. After reading the Theme Documentation we recommend you to open the Theme Customizer and play with some options. You will enjoy it."
+msgstr ""
+
+#: inc/about/about-veronika.php:57
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/about/about-veronika.php:64
+msgid "Veronika Premium - Predefined Styles"
+msgstr ""
+
+#: inc/about/about-veronika.php:66
+msgid "Veronika Premium's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the "
+msgstr ""
+
+#: inc/about/about-veronika.php:67
+msgid "Veronika Premium Theme."
+msgstr ""
+
+#: inc/about/about-veronika.php:68
+msgid "More details in the theme Documentation."
+msgstr ""
+
+#: inc/about/about-veronika.php:75
+msgid "Version 1"
+msgstr ""
+
+#: inc/about/about-veronika.php:76 inc/about/about-veronika.php:83
+#: inc/about/about-veronika.php:90
+msgid "Live Preview"
+msgstr ""
+
+#: inc/about/about-veronika.php:82
+msgid "Version 2"
+msgstr ""
+
+#: inc/about/about-veronika.php:89
+msgid "Version 3"
+msgstr ""
+
+#: inc/about/about-veronika.php:102
+msgid "Recommended Plugins are fully supported by Veronika theme. They well build the theme by giving more and more features. These are highly recommended to install."
+msgstr ""
+
+#: inc/about/about-veronika.php:109
+msgid "Kirki"
+msgstr ""
+
+#: inc/about/about-veronika.php:109
+msgid "Theme advanced customizer options."
+msgstr ""
+
+#: inc/about/about-veronika.php:112
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/about/about-veronika.php:112
+msgid "Mail newsletters. Simple but flexible."
+msgstr ""
+
+#: inc/about/about-veronika.php:115
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: inc/about/about-veronika.php:115
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr ""
+
+#: inc/about/about-veronika.php:133
+msgid "Forums"
+msgstr ""
+
+#: inc/about/about-veronika.php:136
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr ""
+
+#: inc/about/about-veronika.php:138
+msgid "Go to Support Forums"
+msgstr ""
+
+#: inc/about/about-veronika.php:148
+msgid "Need more details? Please check out veronika Theme Documentation for detailed information."
+msgstr ""
+
+#: inc/about/about-veronika.php:150
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/about/about-veronika.php:158
+msgid "Donation"
+msgstr ""
+
+#: inc/about/about-veronika.php:161
+msgid "Even a small sum can help us a lot with theme development. If the veronika theme is useful and our support is helpful, please don't hesitate to donate a little bit, at least buy us a Coffee or a Beer :)"
+msgstr ""
+
+#: inc/about/about-veronika.php:163
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/about/about-veronika.php:182
+msgid "Veronika"
+msgstr ""
+
+#: inc/about/about-veronika.php:189
+msgid "100% Responsive and Retina Ready"
+msgstr ""
+
+#: inc/about/about-veronika.php:190
+msgid "Theme adapts to any kind of device screen, from mobile phones to high resolution Retina displays."
+msgstr ""
+
+#: inc/about/about-veronika.php:197
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/about/about-veronika.php:198
+msgid "Each hard-coded string is ready for translation, means you can translate everything. Language \"veronika.pot\" file included."
+msgstr ""
+
+#: inc/about/about-veronika.php:205
+msgid "MailChimp Support"
+msgstr ""
+
+#: inc/about/about-veronika.php:206
+msgid "The most popular email client plugin. Very simple but super flexible."
+msgstr ""
+
+#: inc/about/about-veronika.php:213
+msgid "Image &amp; Text Logos"
+msgstr ""
+
+#: inc/about/about-veronika.php:214
+msgid "Upload your logo image(set the size) or simply type your text logo."
+msgstr ""
+
+#: inc/about/about-veronika.php:221
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: inc/about/about-veronika.php:223
+msgid "Showcase unlimited number of Blog Posts in header area. There are three Slider designs."
+msgstr ""
+
+#: inc/about/about-veronika.php:231
+msgid "Background Image/Color"
+msgstr ""
+
+#: inc/about/about-veronika.php:232
+msgid "Set the custom body Background image or Color."
+msgstr ""
+
+#: inc/about/about-veronika.php:240
+msgid "Header Background Image/Color"
+msgstr ""
+
+#: inc/about/about-veronika.php:242
+msgid "Set the custom header Background image or Color."
+msgstr ""
+
+#: inc/about/about-veronika.php:250
+msgid "Instagram Widget Area"
+msgstr ""
+
+#: inc/about/about-veronika.php:252
+msgid "Set your Instagram Images in the footer."
+msgstr ""
+
+#: inc/about/about-veronika.php:261
+msgid "Post Layouts"
+msgstr ""
+
+#: inc/about/about-veronika.php:262
+msgid "Standard, List and Grid Blog Feed layout."
+msgstr ""
+
+#: inc/about/about-veronika.php:269
+msgid "Multi-level Sub Menu Support"
+msgstr ""
+
+#: inc/about/about-veronika.php:270
+msgid "Unlimited level of sub menus. Add as much as you need."
+msgstr ""
+
+#: inc/about/about-veronika.php:277
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/about/about-veronika.php:279
+msgid "Right Widgetised area."
+msgstr ""
+
+#: inc/about/about-veronika.php:288
+msgid "Unlimited Colors"
+msgstr ""
+
+#: inc/about/about-veronika.php:289
+msgid "Tons of color options. You can customize your Header, Content and Footer separately as much as possible."
+msgstr ""
+
+#: inc/about/about-veronika.php:296
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/about/about-veronika.php:297
+msgid "Rich Typography options. Choose from more than 800 Google Fonts, adjust Size, Line Height, Font Weight, etc..."
+msgstr ""
+
+#: inc/about/about-veronika.php:304
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/about/about-veronika.php:305 inc/about/about-veronika.php:313
+msgid "Choose from 1 up to 4 columns grid layout for your Blog Feed."
+msgstr ""
+
+#: inc/about/about-veronika.php:312
+msgid "List Layout"
+msgstr ""
+
+#: inc/about/about-veronika.php:320
+msgid "Advanced Footer Options"
+msgstr ""
+
+#: inc/about/about-veronika.php:321
+msgid "Theme and Author credit links in the footer are automatically removed."
+msgstr ""
+
+#: inc/about/about-veronika.php:372
+msgid "Installed"
+msgstr ""
+
+#: inc/about/about-veronika.php:375
+msgid "Install Now"
+msgstr ""
+
+#: inc/slider/slider.php:44 inc/slider/slider.php:110 inc/slider/slider.php:199
+#: inc/slider/slider.php:263 index.php:86
+msgid "0"
+msgstr ""
+
+#: inc/slider/slider.php:44 inc/slider/slider.php:110 inc/slider/slider.php:199
+#: inc/slider/slider.php:263 index.php:86
+msgid "1"
+msgstr ""
+
+#: inc/slider/slider.php:44 inc/slider/slider.php:110 inc/slider/slider.php:199
+#: inc/slider/slider.php:263 index.php:86
+msgid "%"
+msgstr ""
+
+#: inc/widgets/about_widget.php:20
+msgid "An About Me Widget"
+msgstr ""
+
+#: inc/widgets/about_widget.php:26
+msgid "Veronika: About Me"
+msgstr ""
+
+#: inc/widgets/about_widget.php:110 inc/widgets/social_widget.php:120
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:116
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about_widget.php:122
+msgid "Sub title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:128
+msgid "About me text"
+msgstr ""
+
+#: inc/widgets/about_widget.php:134
+msgid "Autograph Image URL"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:19
+msgid "A post widget that can display your latest posts, posts from a category, or hand-picked posts by ID."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:25
+msgid "Veronika: Post Widget"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:98
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:142
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:147
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:153
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:155
+msgid "Small Thumbnail"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:156
+msgid "Text Only List"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:162
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:164
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:174
+msgid "Post IDs (separate with comma):"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:176
+msgid "Display specific posts using post IDs. This option will override the category option above."
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:181
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:187
+msgid "Add Numbering"
+msgstr ""
+
+#: inc/widgets/category_post_widget.php:193
+msgid "Hide Date"
+msgstr ""
+
+#: inc/widgets/social_widget.php:19
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:25
+msgid "Veronika: Social Icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:115
+msgid "Subscribe & Follow"
+msgstr ""
+
+#: inc/widgets/social_widget.php:124
+msgid "Note: Set your social links in the Customizer"
+msgstr ""
+
+#: inc/widgets/social_widget.php:127
+msgid "Show Facebook"
+msgstr ""
+
+#: inc/widgets/social_widget.php:132
+msgid "Show Twitter"
+msgstr ""
+
+#: inc/widgets/social_widget.php:137
+msgid "Show Instagram"
+msgstr ""
+
+#: inc/widgets/social_widget.php:142
+msgid "Show Pinterest"
+msgstr ""
+
+#: inc/widgets/social_widget.php:147
+msgid "Show Bloglovin"
+msgstr ""
+
+#: inc/widgets/social_widget.php:153
+msgid "Show Snapchat"
+msgstr ""
+
+#: inc/widgets/social_widget.php:159
+msgid "Show Tumblr"
+msgstr ""
+
+#: inc/widgets/social_widget.php:164
+msgid "Show Youtube"
+msgstr ""
+
+#: inc/widgets/social_widget.php:169
+msgid "Show Dribbble"
+msgstr ""
+
+#: inc/widgets/social_widget.php:174
+msgid "Show Soundcloud"
+msgstr ""
+
+#: inc/widgets/social_widget.php:179
+msgid "Show Vimeo"
+msgstr ""
+
+#: inc/widgets/social_widget.php:184
+msgid "Show Linkedin"
+msgstr ""
+
+#: inc/widgets/social_widget.php:189
+msgid "Show RSS"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: template-nav.php:15
+msgid "Previous Post"
+msgstr ""
+
+#: template-nav.php:16
+msgid "Next Post"
+msgstr ""
+
+#: template-nav.php:26
+msgid "Posts navigation"
+msgstr ""
+
+#: theme-options.php:38
+msgid "Typography"
+msgstr ""
+
+#: theme-options.php:39
+msgid "This panel will provide all the fonts for your website."
+msgstr ""
+
+#: theme-options.php:48
+msgid "Website Fonts, Colors, Style"
+msgstr ""
+
+#: theme-options.php:49
+msgid "You can change Website fonts, colors, typography from here."
+msgstr ""
+
+#: theme-options.php:60
+msgid "This is only available in Premium Version. <br/><a target=\"_blank\" href=\"https://www.vinethemes.com/downloads/veronika-blog-wordpress-theme/\"> + Upgrade to Premium Version</a>"
+msgstr ""
+
+#: veronika_custom_controller.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Veronika"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vinethemes.com/downloads/veronika-blog-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "veronika is a very clean and simple blog theme. It features a clean dynamic grid layout, and the ability to customize right from the customization menu. Of course it is fully responsive, supports custom menus and widgets and comes with an social profile link feature. The theme is best for personal blog and magazine websites. Theme Demo here https://www.vinethemes.com/themes?theme=Veronika."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VineThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vinethemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
